@@ -58,7 +58,7 @@ public class profundidade {
 
 		no.add(noA);
 		no.add(noB);
-		no.add(noC);
+		no.add(noC);	
 		no.add(noD);
 		no.add(noE);
 		no.add(noF);
